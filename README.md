@@ -1,7 +1,10 @@
 # 💫 About Me:
-I am a second-year undergraduate student in Artificial Intelligence & Data Science with a strong interest in data analytics, machine learning, and problem-solving. I enjoy working with data to extract insights and build practical solutions using Python and SQL.
+I am a second-year undergraduate student in Artificial Intelligence & Data Science with a strong interest in Software Development, Artificial Intelligence, and problem-solving. I enjoy building scalable applications, exploring intelligent systems, and turning ideas into practical solutions.
 
-I have experience in data analysis, basic machine learning, and database querying, and I am actively improving my skills in data structures & algorithms and model building through hands-on projects. I am also eager to contribute to open-source projects to collaborate, learn from the community, and apply my skills in real-world environments. I aspire to become a data scientist or machine learning engineer and work on impactful, real-world problems using data and AI.
+My technical experience includes Java, Python, Spring Boot, SQL, Data Structures & Algorithms, Machine Learning, and Data Analytics. Through academic and personal projects, I have worked on backend development, database management, AI/ML applications, and full-stack systems while continuously strengthening my understanding of software engineering principles.
+
+I am passionate about learning new technologies, contributing to open-source projects, and solving real-world challenges through both software and AI-driven solutions. My goal is to grow into a Software Engineer or AI/ML Engineer and contribute to impactful products that combine strong engineering practices with intelligent technologies.
+
 
 
 # 💻 Tech Stack:
