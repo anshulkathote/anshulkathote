@@ -15,8 +15,7 @@ I have experience in data analysis, basic machine learning, and database queryin
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshulkathote&layout=compact&theme=tokyonight)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=anshulkathote&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
