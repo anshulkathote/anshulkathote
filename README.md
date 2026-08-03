@@ -14,12 +14,6 @@ I am passionate about learning new technologies, contributing to open-source pro
 ![GitHub Streak](https://streak-stats.demolab.com?user=anshulkathote&theme=tokyonight)
 
 
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics">
-</p>
-
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
