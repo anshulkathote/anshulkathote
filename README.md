@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a second-year undergraduate student in Artificial Intelligence & Data Science with a strong interest in Software Development, Artificial Intelligence, and problem-solving. I enjoy building scalable applications, exploring intelligent systems, and turning ideas into practical solutions.
+I am a third-year undergraduate student in Artificial Intelligence & Data Science with a strong interest in Software Development, Artificial Intelligence, and problem-solving. I enjoy building scalable applications, exploring intelligent systems, and turning ideas into practical solutions.
 
 My technical experience includes Java, Python, Spring Boot, SQL, Data Structures & Algorithms, Machine Learning, and Data Analytics. Through academic and personal projects, I have worked on backend development, database management, AI/ML applications, and full-stack systems while continuously strengthening my understanding of software engineering principles.
 
